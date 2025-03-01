@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: pks
+server:
+  port: 8100
